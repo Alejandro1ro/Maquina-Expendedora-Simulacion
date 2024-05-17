@@ -1,0 +1,14 @@
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\bin\Debug\net7.0\Proyecto_5.exe
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\bin\Debug\net7.0\Proyecto_5.deps.json
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\bin\Debug\net7.0\Proyecto_5.runtimeconfig.json
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\bin\Debug\net7.0\Proyecto_5.dll
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\bin\Debug\net7.0\Proyecto_5.pdb
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\obj\Debug\net7.0\Proyecto_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\obj\Debug\net7.0\Proyecto_5.AssemblyInfoInputs.cache
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\obj\Debug\net7.0\Proyecto_5.AssemblyInfo.cs
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\obj\Debug\net7.0\Proyecto_5.csproj.CoreCompileInputs.cache
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\obj\Debug\net7.0\Proyecto_5.dll
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\obj\Debug\net7.0\refint\Proyecto_5.dll
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\obj\Debug\net7.0\Proyecto_5.pdb
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\obj\Debug\net7.0\Proyecto_5.genruntimeconfig.cache
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\MasC#\Proyecto_5\Proyecto_5\obj\Debug\net7.0\ref\Proyecto_5.dll
